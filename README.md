@@ -4,7 +4,7 @@
 Projeto de um blog com backend em .Net e com consumo das apis em angular.
 
 # Projeto Backend
-ttps://github.com/ErikCoelho/blogNet
+https://github.com/ErikCoelho/blogNet
 
 # Projeto Frontend
 https://github.com/ErikCoelho/blogAng
