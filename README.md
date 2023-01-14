@@ -1,6 +1,10 @@
 # BlogProj
 
-![Untitled](https://user-images.githubusercontent.com/79767115/202721143-a5058ed8-03d7-4629-b922-c5f409d39c7d.png)
+
+
+https://user-images.githubusercontent.com/79767115/212479307-a1dfbf3c-4ac8-4bc1-8d83-cf174ff1a77e.mp4
+
+
 Projeto de um blog com backend em .Net e com consumo da api Rest em angular.
 
 # Projeto Backend
